@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A fully functional dark mode calculator mimicking the sleek iOS theme with an elegant, custom-drawn 7-segment digital display UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
